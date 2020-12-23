@@ -19,8 +19,7 @@
 
 ***
 
-### If you encounter any visible error, Feel free to send a PR with the corrected code !
-<p align = "center"><img src = "https://media.giphy.com/media/Rkis28kMJd1aE/giphy.gif" width = 30%></p>
+
 
 ***
 
@@ -32,5 +31,4 @@
 ## By: Ansh Sharma 
 ## CSE-6
 
-#### Readme.md
-#### CSE-8
+
