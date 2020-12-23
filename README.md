@@ -4,7 +4,7 @@
 ***
 
 <p align = "center"><img src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = 30%></p>
-<p align="center">This took a lot of coding and time. You can trust me👍 (99.9%)</p> 
+<p align="center">This took a lot of coding and time.</p> 
 
 ***
 
